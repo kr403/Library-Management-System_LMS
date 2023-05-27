@@ -1,0 +1,15 @@
+body{
+    margin-top: 100px;
+    background-image:url(books.jpg);
+    background-size: cover;
+    background-size:100%;
+}
+.container{
+    margin-left: 450px;
+
+}
+
+.txt-box{
+    position: absolute;
+    left: 45%;
+}
